@@ -1,2 +1,2 @@
 # PowerBI
-Images for Power BI Kpi
+Report containing YoY measures, custom columns, conditional columns, slicers, Visual(Image) Flag for different values for measure.
